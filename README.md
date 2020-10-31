@@ -18,14 +18,15 @@ A system that assists doctors and patients get effective  analysis and deeper in
 
 ## UseCase
 
-### For Doctors and Healthcare professionals
-* provide accurate data for the effective diagnosis of spinal cord related problems
-* To assess the condition of a patient suffering from spinal cord problems.
-* To get some predictions regarding condition of  spinal cord
-
 ### For Patient/Common Person
-* To get some predictions regarding condition of  spinal cord
-* To get assistance for correcting spine posture
+* To get some predictions regarding condition of  spinal cord.
+* To get assistance for correcting spine posture.
+
+### For Doctors and Healthcare professionals
+* provide accurate data for the effective diagnosis of spinal cord related problems.
+* To assess the condition of a patient suffering from spinal cord problems.
+* To get some predictions regarding condition of  spinal cord.
+
 
 ![UseCase](/Diagrams/UseCase.jpeg)
 
