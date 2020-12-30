@@ -6,8 +6,13 @@ A system that assists doctors and patients get effective  analysis and deeper in
   <img align="right" src="/images/goverment_of_India.png" />
 </a>
 </p>
+
 # The project is patented under Intellectual Property, Government of India in year 2020.
 
+<br>
+ 
+ ---
+ 
 ## Architecture
 
 ![Architecture](/Diagrams/Architecture.PNG)
